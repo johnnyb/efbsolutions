@@ -1,4 +1,4 @@
-= Electronics for Beginners Solution Guide
+# Electronics for Beginners Solution Guide
 
 This repository is just to hold the PDF for the "Electronics for Beginners" Solution Guide.  
 Note that this guide is a work-in-progress.
